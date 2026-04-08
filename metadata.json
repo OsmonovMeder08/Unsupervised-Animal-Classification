@@ -1,0 +1,7 @@
+{
+  "num_clusters": 5,
+  "silhouette_score": 0.8409123420715332,
+  "num_samples": 4738,
+  "feature_dim": 2048,
+  "umap_dim": 50
+}
