@@ -30,7 +30,6 @@ def load_images(data_dir, img_size):
     return np.array(images), filenames
 
 print("=" * 60)
-print("STAGE 1: TRAINING UNSUPERVISED ANIMAL CLASSIFICATION MODEL")
 print("=" * 60)
 
 print("\n1. Loading images...")
