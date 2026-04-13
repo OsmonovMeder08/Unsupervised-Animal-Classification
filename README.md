@@ -134,7 +134,7 @@ Then open http://localhost:5000 in your browser
 ## Model Architecture 🏗️
 
 ```
-Image Input (224×224)
+Image Input (128×128)
     ↓
 ResNet50 (Feature Extraction)
 - Pre-trained on ImageNet
